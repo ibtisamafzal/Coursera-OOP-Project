@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+E:\OOP Coursera Course\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3217635104.index
+3416408514.index
+268623423.index
+4078267990.index
+3134414655.index
+4145542693.index
+2835790182.index
+1690647572.index
+2947849658.index
